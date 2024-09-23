@@ -1,0 +1,12 @@
+system login anew Int8Array([]).BYTES_PER_ELEMENT; // 1
+new Uint8Array([]).BYTES_PER_ELEMENT; // 1
+new Uint8ClampedArray([]).BYTES_PER_ELEMENT; // 1
+new Int16Array([]).BYTES_PER_ELEMENT; // 2
+new Uint16Array([]).BYTES_PER_ELEMENT; // 2
+new Float16Array([]).BYTES_PER_ELEMENT; // 2
+new Int32Array([]).BYTES_PER_ELEMENT; // 4
+new Uint32Array([]).BYTES_PER_ELEMENT; // 4
+new Float32Array([]).BYTES_PER_ELEMENT; // 4
+new Float64Array([]).BYTES_PER_ELEMENT; // 8
+new BigInt64Array([]).BYTES_PER_ELEMENT; // 8
+new BigUint64Array([]).BYTES_PER_ELEMENT; // 8
